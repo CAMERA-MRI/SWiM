@@ -1,6 +1,12 @@
-# SWiM
-Scan With Me (SWiM)
+# Scan With Me (SWiM)
 
+Github description: 
+
+This Github repository serves as the main access point to the Scan With Me (SWiM) resources. 
+
+For more information about SWiM, the program's objectives, upcoming program including schedule and how to apply to attend, visit SWiM's event website: https://event.fourwaves.com/swim. You will also be able to attend the training event directly through this website.
+
+About SWiM:
 SWiM (Scan With Me) is a hybrid training initiative of the Consortium for Advancement of MRI Education and Research in Africa (CAMERA). The SWiM program is designed to advance the skill sets of MR imaging technologists practicing in imaging centers in Low-and-Middle-Income Countries (LMICs) in Africa, Latin America and South East Asia. SWiM implements RAD-AID’s Teach-Try-Use strategy, applied in CAMERA’s SPARK AI training program, to rapidly provide MR image acquisition competences in resource-limited settings. In keeping with CAMERA’s training model, SWiM will use a combination of case-based and hands-on learning approaches to train a team of technologists who will work together as a network to grow their skills and collectively train others.
 
 Given the relatively higher burden of cardiovascular disease in LMICs and the limited cardiac diagnostic imaging capacity in the region, coupled with the lack of postgraduate training in cardiac MRI (CMR), the first SWiM program will focus on CMR. This first program is in collaboration with the Courtis CMR Research Group at the Division of Cardiology, McGill University Health Centre (MUHC), Siemens Healthineers, Circle Cardiovascular imaging Inc., Accuread Radiology Nigeria LTD, and EuraCare Multi-Specialist Hospital, Nigeria and supported by the McGill University Doctoral Internship Program and Global Mobility Awards. Fifteen MR technologists from 6 imaging centers in Africa, South East Asia, and Latin America will participate in the first SWiM program and trained to acquire high quality and best value CMR including emerging advanced contrast-free techniques such as the O2-Sensitive CMR technique (BMORE) developed by Prof Matthias Friedrich at MUHC.
