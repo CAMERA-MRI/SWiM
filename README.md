@@ -1,3 +1,4 @@
+![alt text](https://github.com/CAMERA-MRI/SWiM/blob/main/SWiM_banner.png)
 # Scan With Me (SWiM)
 
 ## SWiM Github
