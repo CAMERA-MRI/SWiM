@@ -25,7 +25,7 @@ References:
 |  Image weighting / T1W / T2W / PD  |  CMR Physics for Clinicans Part I - pages: 13,14,15 | Video 1, 3|
 |  Spin Echo / Gradient Echo / EPI |  CMR Physics for Clinicans Part I - pages: 7, 8 | Video 1, 3  |
 | Gradients / Spatial Localization / Slice / Phase / Readout  |   CMR Physics for Clinicans Part I - pages: 8, 9, 10, 11 | Video 1 |
-|  Image reconstruction / K-space / Parallel Imaging  | CMR Physics for Clinicans Part I - pages: 10, 12 <br> Doc 2 - pages: 145-159 |   Video 1   |
+|  Image reconstruction / K-space / Parallel Imaging  | CMR Physics for Clinicans Part I - pages: 10, 12 <br> K-Space in the Clinic - pages: 145-159 |   Video 1   |
 
 <!--- Origin of MR Signal / Magnetization:  H3 -pages: 2,3 | M4
 
