@@ -2,9 +2,13 @@
 -------------------
 **Documents**
 
-1. [CMR physics for clinicians_Part I.pdf](../Week%201/Documents/CMR%20physics%20for%20clinicians_Part%20I.pdf) Ridgway, J.P. Cardiovascular magnetic resonance physics for clinicians: part I. J Cardiovasc Magn Reson 12, 71 (2010). 
+1. [CMR physics for clinicians_Part I.pdf](../Week%201/Documents/CMR%20physics%20for%20clinicians_Part%20I.pdf) 
 
 2. [K-Space in the Clinic.pdf](../Week%201/Documents/K-Space%20in%20the%20Clinic.pdf)
+
+References:
+1. Ridgway, J.P. Cardiovascular magnetic resonance physics for clinicians: part I. J Cardiovasc Magn Reson 12, 71 (2010).
+2. Paschal CB, Morris HD. K-space in the clinic. J Magn Reson Imaging. 2004 Feb;19(2):145-59.
 
 **Videos** 
 
