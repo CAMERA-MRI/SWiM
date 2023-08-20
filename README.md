@@ -3,7 +3,7 @@
 
 ## SWiM Github
 
-This Github repository serves as the main access point to the Scan With Me (SWiM) resources. 
+This Github repository serves as the access point to the Scan With Me (SWiM) training course resources. 
 
 For more information about SWiM, the program's objectives, upcoming program including schedule and how to apply to attend, visit [SWiM's event website](https://event.fourwaves.com/swim). You will also be able to attend the training event directly through this website.
 
