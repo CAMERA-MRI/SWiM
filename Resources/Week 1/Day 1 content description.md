@@ -4,7 +4,7 @@
 
 Doc 1: [CMR physics for clinicians_Part I.pdf](../Day%201%20materials/CMR%20physics%20for%20clinicians_Part%20I.pdf)
 
-Doc 2: K-Space in the Clinic.pdf
+Doc 2: [K-Space in the Clinic.pdf](../Week%201/Documents/K-Space%20in%20the%20Clinic.pdf)
 
 ----------------------------
 
