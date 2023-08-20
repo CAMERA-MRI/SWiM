@@ -2,7 +2,7 @@
 -------------------
 **Documents**
 
-Doc 1: [CMR physics for clinicians_Part I.pdf](https://github.com/CAMERA-MRI/SWiM/Resources/Day 1 materials/CMR physics for clinicians_Part I.pdf)
+Doc 1: [CMR physics for clinicians_Part I.pdf](Resources/Day%201%20materials/CMR%20physics%20for%20clinicians_Part%20I.pdf)
 
 Doc 2: K-Space in the Clinic.pdf
 
