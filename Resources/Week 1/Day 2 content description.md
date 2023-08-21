@@ -29,9 +29,16 @@
 3. [GRE review](https://www.youtube.com/watch?v=7poMqlBgKbc)(64 min)
 4. [Cardiac (Heart) MRI scan positioning, protocols and planning. Cardiac flow and myocardial T2 mapping](https://www.youtube.com/watch?v=Bd8HHF_cdgM)(27 min)
 
-
+----------------------------
 
 **References:**
+1. Ridgway, J.P., 2010. Cardiovascular magnetic resonance physics for clinicians: part I. Journal of cardiovascular magnetic resonance, 12(1), pp.1-28.
+2. Niendorf, T., Winter, L. and Frauenrath, T., 2012. Electrocardiogram in an MRI environment: clinical needs, practical considerations, safety implications, technical solutions and future directions. Advances in electrocardiograms—methods and analysis, pp.309-324.
+3. Nacif, M.S., Zavodni, A., Kawel, N., Choi, E.Y., Lima, J.A. and Bluemke, D.A., 2012. Cardiac magnetic resonance imaging and its electrocardiographs (ECG): tips and tricks. The international journal of cardiovascular imaging, 28, pp.1465-1475.
+4. IACI Secretary. (2020, April 30). 5. CMR Basic Sequences and how to get good images Dr  Pudhiavan [Video]. YouTube. https://www.youtube.com/watch?v=p2W0xn1AUYU
+5. mrimaster. (2022, October 26). Cardiac (Heart) MRI scan positioning, protocols and planning. Cardiac flow and myocardial T2 mapping [Video]. YouTube. https://www.youtube.com/watch?v=Bd8HHF_cdgM
+6. Sean Strickler. (2019, September 11). GRE review [Video]. YouTube. https://www.youtube.com/watch?v=7poMqlBgKbc
+7. Shawn Teague. (2014, June 6). Cardiac MRI Pulse sequences [Video]. YouTube. https://www.youtube.com/watch?v=JUr83DREwi4
 
 ----------------------------
 
