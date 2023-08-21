@@ -1,30 +1,21 @@
 **Day 3: 24th of August 2023**
 -------------------
-**Documents**
-
-Doc 1: [CMR physics for clinicians_Part I.pdf](../Week%201/Documents/CMR%20physics%20for%20clinicians_Part%20I.pdf)
-
-Doc 2: [K-Space in the Clinic.pdf](../Week%201/Documents/K-Space%20in%20the%20Clinic.pdf)
-
-----------------------------
 
 |     Topic     |   Documents    |    Videos    |
 | ------------- | ------------- | ------------- | 
-| Origin of MR Signal / Magnetization  | Doc 1 -pages: 2,3 | M4 Content Cell  |
-|  T1/T2/T2* Relaxation  | Doc 1 - pages: 4,5,6  |        Content Cell  |
-|  Image weighting / T1W / T2W / PD  |  Doc 1 - pages: 13,14,15 |        Content Cell  |
-|  Spin Echo / Gradient Echo / EPI |  Doc 1  - pages: 7, 8 |        Content Cell  |
-| Gradients / Spatial Localization / Slice / Phase / Readout  |   Doc 1 - pages: 8, 9, 10, 11 |        Content Cell  |
-|  Image reconstruction / K-space / Parallel Imaging  | Doc 1 - pages: 10, 12, Doc 2 - pages: 145-159 |        Content Cell  |
+| Cardiac anatomy (atrium / ventricle / valves /myocardium)| Doc 1 -pages: 2,3 | M4 Content Cell  |
+| Cardiac physiology (SA node / AV node / blood flow / cardiac cycle) | Doc 1 - pages: 4,5,6  |        Content Cell  |
+|  Image artifacts |  Doc 1 - pages: 13,14,15 |        Content Cell  |
 
-<!--- Origin of MR Signal / Magnetization:  H3 -pages: 2,3 | M4
+----------------------------
 
-T1/T2/T2* Relaxation  | H3 - pages: 4,5,6 | M4 | M6 | M8
+**Documents**
 
-Image weighting / T1W / T2W / PD, H3 - pages: 13,14,15 | M4 | M8
+1. [Cardiac Physiology for Radiologists: Review of Relevant Physiology for Interpretation of Cardiac MR Imaging and CT](https://pubmed.ncbi.nlm.nih.gov/26186546/)
+2. [Cardiac magnetic resonance imaging: artefacts for clinicians](https://pubmed.ncbi.nlm.nih.gov/25339204/)
+----------------------------
 
-Spin Echo / Gradient Echo / EPI , H3 - pages: 7, 8 | M4 | M8
-
-Gradients / Spatial Localization / Slice / Phase / Readout, H3 - pages: 8, 9, 10, 11 | M4
-
-Image reconstruction / K-space / Parallel Imaging, H3 - pages: 10, 12 | H4 - pages: 145-159 | M4  --->
+**References**
+1. Sheth, P.J., Danton, G.H., Siegel, Y., Kardon, R.E., Infante Jr, J.C., Ghersin, E. and Fishman, J.E., 2015. Cardiac physiology for radiologists: Review of relevant physiology for interpretation of cardiac MR imaging and CT. Radiographics, 35(5), pp.1335-1351.
+2. Van der Graaf, A.W.M., Bhagirath, P., Ghoerbien, S. and Götte, M.J.W., 2014. Cardiac magnetic resonance imaging: artefacts for clinicians. Netherlands Heart Journal, 22, pp.542-549.
+<!---  --->
