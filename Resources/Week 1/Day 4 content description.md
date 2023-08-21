@@ -1,21 +1,29 @@
 **Day 4: 25th of August 2023**
 -------------------
-**Documents**
-
-Doc 1: [x.pdf](../Week%201/Documents/x.pdf)
-
-Doc 2: [K-Space in the Clinic.pdf](../Week%201/Documents/K-Space%20in%20the%20Clinic.pdf)
-
-----------------------------
 
 |     Topic     |   Documents    |    Videos    |
 | ------------- | ------------- | ------------- | 
-| Origin of MR Signal / Magnetization  | Doc 1 -pages: 2,3 | M4 Content Cell  |
-|  T1/T2/T2* Relaxation  | Doc 1 - pages: 4,5,6  |        Content Cell  |
-|  Image weighting / T1W / T2W / PD  |  Doc 1 - pages: 13,14,15 |        Content Cell  |
-|  Spin Echo / Gradient Echo / EPI |  Doc 1  - pages: 7, 8 |        Content Cell  |
-| Gradients / Spatial Localization / Slice / Phase / Readout  |   Doc 1 - pages: 8, 9, 10, 11 |        Content Cell  |
-|  Image reconstruction / K-space / Parallel Imaging  | Doc 1 - pages: 10, 12, Doc 2 - pages: 145-159 |        Content Cell  |
+| Pregnancy scenario | Contemporary considerations (entire article) |  |
+| CMR Safety |  Cardiovascular magnetic resonance (entire article)|  Video 1 (36:00 - 45:15) |
 
-<!---   --->
+----------------------------
 
+**Documents**
+
+1. [Contemporary considerations for the use of cardiovascular magnetic resonance imaging during pregnancy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6909299/pdf/10.1177_1753495X19832166.pdf)
+2. [Cardiovascular magnetic resonance: What clinicians should know about safety and contraindications](https://pubmed.ncbi.nlm.nih.gov/33571560/)
+   
+
+
+**Videos**
+1. [Cardiovascular MR: Basic Principles and Overview of Technique (Dipan Shah, MD) September 28, 2021](https://www.youtube.com/watch?v=xQbWlyiRuWM)
+   
+----------------------------
+
+**References** 
+
+1. Ducas, R., Nguyen, E.T. and Wald, R.M., 2019. Contemporary considerations for the use of cardiovascular magnetic resonance imaging during pregnancy. Obstetric Medicine, 12(4), pp.158-163.
+2. Barison, A., Baritussio, A., Cipriani, A., De Lazzari, M., Aquaro, G.D., Guaricci, A.I., Pica, S., Pontone, G., Todiere, G., Indolfi, C. and Dellegrottaglie, S., 2021. Cardiovascular magnetic resonance: What clinicians should know about safety and contraindications. International Journal of Cardiology, 331, pp.322-328.
+3. Houston Methodist DeBakey CV Education. (2021, September 28). Cardiovascular MR: Basic Principles and Overview of Technique (Dipan Shah, MD) September 28, 2021 [Video]. YouTube. https://www.youtube.com/watch?v=xQbWlyiRuWM
+
+----------------------------
