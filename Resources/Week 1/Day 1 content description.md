@@ -1,5 +1,16 @@
 **Day 1: 22nd of August 2023**
--------------------
+
+**Schedule**
+
+|     Topic     |   Documents    |    Videos    |
+| ------------- | ------------- | ------------- | 
+| Origin of MR Signal / Magnetization  | CMR Physics for Clinicans Part I -pages: 2,3 | Video 1 (0:00-4:00), Video 2 (complete), Video 3 (complete)|
+|  T1/T2/T2* Relaxation  | CMR Physics for Clinicans Part I - pages: 4,5,6  |  Video 4 (complete), Video 5 (complete) |
+|  Image weighting / T1W / T2W / PD  |  CMR Physics for Clinicans Part I - pages: 13,14,15 | Video 6 (0:00-9:00)|
+|  Spin Echo / Gradient Echo / EPI |  CMR Physics for Clinicans Part I - pages: 7, 8 | Video 7 (complete), Video 8 (complete) |
+| Gradients / Spatial Localization / Slice / Phase / Readout  |   CMR Physics for Clinicans Part I - pages: 8, 9, 10, 11 | Video 9 (complete) |
+|  Image reconstruction / K-space / Parallel Imaging  | CMR Physics for Clinicans Part I - pages: 10, 12 <br> K-Space in the Clinic - pages: 145-159 |   Video 10 (complete)   |
+
 **Documents**
 
 1. [CMR physics for clinicians Part I](https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-12-71)
