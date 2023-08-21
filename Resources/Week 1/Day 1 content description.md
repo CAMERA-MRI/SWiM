@@ -11,6 +11,7 @@
 | Gradients / Spatial Localization / Slice / Phase / Readout  |   CMR Physics for Clinicans Part I - pages: 8, 9, 10, 11 | Video 9 (complete) |
 |  Image reconstruction / K-space / Parallel Imaging  | CMR Physics for Clinicans Part I - pages: 10, 12 <br> K-Space in the Clinic - pages: 145-159 |   Video 10 (complete)   |
 
+----------------------------
 **Documents**
 
 1. [CMR physics for clinicians Part I](https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-12-71)
