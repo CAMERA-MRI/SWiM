@@ -32,27 +32,24 @@
 9. [T1, T2 and Proton Density Weighting | MRI Weighting and Contrast | MRI Physics Course #6](https://www.youtube.com/watch?v=gGIycwtFOBk&t=12s)(19 min)
 
    
-14. [Cardiac MRI - Basics for Cardiology Fellows (PART 1)](https://www.youtube.com/watch?v=PyTJcD2OCEw&t=1285s)
-
-   
 <!--- 1. [Cardiovascular MR: Basic Principles and Overview of Technique - Dr. Dipan Shah](https://www.youtube.com/watch?v=xQbWlyiRuWM&ab_channel=HoustonMethodistDeBakeyCVEducation) (56 min)
-2. [CMR Basic Physics and Pulse sequences](https://www.youtube.com/watch?v=L-O2ktipseM&list=PLuaYT8-rtl8tUssoJMnRISB7Zeix0f6_q&index=4) (23 min) --->
+2. [CMR Basic Physics and Pulse sequences](https://www.youtube.com/watch?v=L-O2ktipseM&list=PLuaYT8-rtl8tUssoJMnRISB7Zeix0f6_q&index=4) (23 min)
+[Cardiac MRI - Basics for Cardiology Fellows (PART 1)](https://www.youtube.com/watch?v=PyTJcD2OCEw&t=1285s)--->
 
 ----------------------------
 **References:**
 1. Ridgway, J.P. Cardiovascular magnetic resonance physics for clinicians: part I. J Cardiovasc Magn Reson 12, 71 (2010).
 2. Paschal CB, Morris HD. K-space in the clinic. J Magn Reson Imaging. 2004 Feb;19(2):145-59.
-3. High risk PCI. (2020, April 20). Cardiac MRI - Basics for Cardiology Fellows (PART 1) [Video]. YouTube. https://www.youtube.com/watch?v=PyTJcD2OCEw
-4. Navigating Radiology. (2022a, February 24). Introduction to MRI: Basics 1 - How we get Signal [Video]. YouTube. https://www.youtube.com/watch?v=5rjIMQqPukk
-5. Navigating Radiology. (2022b, March 16). Introduction to MRI: Basic Pulse Sequences, TR, TE, T1 and T2 weighting [Video]. YouTube. https://www.youtube.com/watch?v=kF1hM1Y5Cho
-6. Radiology Tutorials. (2023a, June 8). Spin, Precession, resonance and flip angle | MRI Physics Course | Radiology Physics Course #3 [Video]. YouTube. https://www.youtube.com/watch?v=uySdo9cFuVc
-7. Radiology Tutorials. (2023b, June 12). T2 relaxation, spin-spin relaxation, free induction decay, transverse decay | MRI Physics Course #4 [Video]. YouTube. https://www.youtube.com/watch?v=T5y0d7yPlNE
-8. Radiology Tutorials. (2023c, June 14). T1 relaxation, spin-lattice relaxation, longitudinal recovery | MRI Physics Course #5 [Video]. YouTube. https://www.youtube.com/watch?v=9s510zUTW7Y
-9. Radiology Tutorials. (2023d, June 16). T1, T2 and proton Density Weighting | MRI Weighting and Contrast | MRI Physics Course #6 [Video]. YouTube. https://www.youtube.com/watch?v=gGIycwtFOBk
-10. Radiology Tutorials. (2023e, June 28). MRI Slice Selection | Signal Localisation | MRI Physics Course #7 [Video]. YouTube. https://www.youtube.com/watch?v=r3LHXIzCXAY
-11. Radiology Tutorials. (2023f, July 6). Phase Encoding Gradient MRI | MRI Signal Localisation | MRI Physics Course #9 [Video].YouTube. https://www.youtube.com/watch?v=znAuKFfOGPU
-13. Radiology Tutorials. (2023g, July 10). K-Space MRI explained | MRI Signal Localisation | MRI Physics Course #10 [Video]. YouTube. https://www.youtube.com/watch?v=hlTWxwYNmwY
-14. Radiology Tutorials. (2023f, July 1). Frequency Encoding Gradient | MRI Signal Localisation | MRI Physics Course #8 [Video]. YouTube. https://www.youtube.com/watch?v=MblNNwQv3nY
+3. Navigating Radiology. (2022a, February 24). Introduction to MRI: Basics 1 - How we get Signal [Video]. YouTube. https://www.youtube.com/watch?v=5rjIMQqPukk
+4. Radiology Tutorials. (2023a, June 8). Spin, Precession, resonance and flip angle | MRI Physics Course | Radiology Physics Course #3 [Video]. YouTube. https://www.youtube.com/watch?v=uySdo9cFuVc
+5. Radiology Tutorials. (2023c, June 14). T1 relaxation, spin-lattice relaxation, longitudinal recovery | MRI Physics Course #5 [Video]. YouTube. https://www.youtube.com/watch?v=9s510zUTW7Y
+6. Radiology Tutorials. (2023b, June 12). T2 relaxation, spin-spin relaxation, free induction decay, transverse decay | MRI Physics Course #4 [Video]. YouTube. https://www.youtube.com/watch?v=T5y0d7yPlNE
+7. Navigating Radiology. (2022b, March 16). Introduction to MRI: Basic Pulse Sequences, TR, TE, T1 and T2 weighting [Video]. YouTube. https://www.youtube.com/watch?v=kF1hM1Y5Cho
+8. Radiology Tutorials. (2023e, June 28). MRI Slice Selection | Signal Localisation | MRI Physics Course #7 [Video]. YouTube. https://www.youtube.com/watch?v=r3LHXIzCXAY
+9. Radiology Tutorials. (2023f, July 1). Frequency Encoding Gradient | MRI Signal Localisation | MRI Physics Course #8 [Video]. YouTube. https://www.youtube.com/watch?v=MblNNwQv3nY
+10. Radiology Tutorials. (2023f, July 6). Phase Encoding Gradient MRI | MRI Signal Localisation | MRI Physics Course #9 [Video].YouTube. https://www.youtube.com/watch?v=znAuKFfOGPU
+11. Radiology Tutorials. (2023d, June 16). T1, T2 and proton Density Weighting | MRI Weighting and Contrast | MRI Physics Course #6 [Video]. YouTube. https://www.youtube.com/watch?v=gGIycwtFOBk
+
 ----------------------------
 
 
