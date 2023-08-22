@@ -5,12 +5,12 @@
 
 |     Topic     |   Documents    |    Videos    |
 | ------------- | ------------- | ------------- | 
-| Origin of MR Signal / Magnetization  | CMR Physics for Clinicans Part I -pages: 2,3 | Video 1 (0:00-4:00), Video 2 (complete), Video 3 (complete)|
-|  T1/T2/T2* Relaxation  | CMR Physics for Clinicans Part I - pages: 4,5,6  |  Video 4 (complete), Video 5 (complete) |
-|  Image weighting / T1W / T2W / PD  |  CMR Physics for Clinicans Part I - pages: 13,14,15 | Video 6 (0:00-9:00)|
-|  Spin Echo / Gradient Echo / EPI |  CMR Physics for Clinicans Part I - pages: 7, 8 | Video 7 (complete), Video 8 (complete) |
-| Gradients / Spatial Localization / Slice / Phase / Readout  |   CMR Physics for Clinicans Part I - pages: 8, 9, 10, 11 | Video 9 (complete) |
-|  Image reconstruction / K-space / Parallel Imaging  | CMR Physics for Clinicans Part I - pages: 10, 12 <br> K-Space in the Clinic - pages: 145-159 |   Video 10 (complete)   |
+| Origin of MR Signal / Magnetization  | CMR Physics for Clinicans Part I -pages: 2,3 | Video 1 (complete), Video 2 (complete)|
+|  T1/T2/T2* Relaxation  | CMR Physics for Clinicans Part I - pages: 4,5,6  |  Video 3 (complete), Video 4 (complete) |
+|  Image weighting / T1W / T2W / PD  |  CMR Physics for Clinicans Part I - pages: 13,14,15 | Video 5 (0:00-9:00)|
+|  Spin Echo / Gradient Echo / EPI |  CMR Physics for Clinicans Part I - pages: 7, 8 | Video 6 (complete), Video 7 (complete), Video 8 (complete) |
+| Gradients / Spatial Localization / Slice / Phase / Readout  |   CMR Physics for Clinicans Part I - pages: 8, 9, 10, 11 | Video 5 (complete) |
+|  Image reconstruction / K-space / Parallel Imaging  | CMR Physics for Clinicans Part I - pages: 10, 12 <br> K-Space in the Clinic - pages: 145-159 |   Video 9 (complete)   |
 
 ----------------------------
 **Documents**
@@ -21,16 +21,18 @@
 
 
 **Videos** 
-1. [Cardiac MRI - Basics for Cardiology Fellows (PART 1)](https://www.youtube.com/watch?v=PyTJcD2OCEw&t=1285s)
-2. [Introduction to MRI: Basics 1 - How we get Signal](https://www.youtube.com/watch?v=5rjIMQqPukk)(11 min)
-3. [Spin, Precession, Resonance and Flip Angle | MRI Physics Course | Radiology Physics Course #3](https://www.youtube.com/watch?v=uySdo9cFuVc)(18 min)
-4. [T1 Relaxation, Spin-lattice Relaxation, Longitudinal Recovery | MRI Physics Course #5](https://www.youtube.com/watch?v=9s510zUTW7Y)(18 min)
-5. [T2 Relaxation, Spin-spin Relaxation, Free Induction Decay, Transverse Decay | MRI Physics Course #4](https://www.youtube.com/watch?v=T5y0d7yPlNE)(17 min)
-6. [Introduction to MRI: Basic Pulse Sequences, TR, TE, T1 and T2 weighting](https://www.youtube.com/watch?v=kF1hM1Y5Cho&t=329s) (16 min)
-7. [MRI Slice Selection | Signal Localisation | MRI Physics Course #7](https://www.youtube.com/watch?v=r3LHXIzCXAY) (22 min)
+1. [Introduction to MRI: Basics 1 - How we get Signal](https://www.youtube.com/watch?v=5rjIMQqPukk)(11 min)
+2. [Spin, Precession, Resonance and Flip Angle | MRI Physics Course | Radiology Physics Course #3](https://www.youtube.com/watch?v=uySdo9cFuVc)(18 min)
+3. [T1 Relaxation, Spin-lattice Relaxation, Longitudinal Recovery | MRI Physics Course #5](https://www.youtube.com/watch?v=9s510zUTW7Y)(18 min)
+4. [T2 Relaxation, Spin-spin Relaxation, Free Induction Decay, Transverse Decay | MRI Physics Course #4](https://www.youtube.com/watch?v=T5y0d7yPlNE)(17 min)
+5. [Introduction to MRI: Basic Pulse Sequences, TR, TE, T1 and T2 weighting](https://www.youtube.com/watch?v=kF1hM1Y5Cho&t=329s) (16 min)
+6. [MRI Slice Selection | Signal Localisation | MRI Physics Course #7](https://www.youtube.com/watch?v=r3LHXIzCXAY) (22 min)
+7. [Frequency Encoding Gradient | MRI Signal Localisation | MRI Physics Course #](https://www.youtube.com/watch?v=MblNNwQv3nY&t=1327s)8
 8. [Phase Encoding Gradient MRI | MRI Signal Localisation | MRI Physics Course #9](https://www.youtube.com/watch?v=znAuKFfOGPU)(38 min)
-9. [K-space MRI Explained | MRI Signal Localisation | MRI Physics Course #10](https://www.youtube.com/watch?v=hlTWxwYNmwY&t=1099s)(22 min)
-10. [T1, T2 and Proton Density Weighting | MRI Weighting and Contrast | MRI Physics Course #6](https://www.youtube.com/watch?v=gGIycwtFOBk&t=12s)(19 min)
+9. [T1, T2 and Proton Density Weighting | MRI Weighting and Contrast | MRI Physics Course #6](https://www.youtube.com/watch?v=gGIycwtFOBk&t=12s)(19 min)
+
+   
+14. [Cardiac MRI - Basics for Cardiology Fellows (PART 1)](https://www.youtube.com/watch?v=PyTJcD2OCEw&t=1285s)
 
    
 <!--- 1. [Cardiovascular MR: Basic Principles and Overview of Technique - Dr. Dipan Shah](https://www.youtube.com/watch?v=xQbWlyiRuWM&ab_channel=HoustonMethodistDeBakeyCVEducation) (56 min)
@@ -50,6 +52,7 @@
 10. Radiology Tutorials. (2023e, June 28). MRI Slice Selection | Signal Localisation | MRI Physics Course #7 [Video]. YouTube. https://www.youtube.com/watch?v=r3LHXIzCXAY
 11. Radiology Tutorials. (2023f, July 6). Phase Encoding Gradient MRI | MRI Signal Localisation | MRI Physics Course #9 [Video].YouTube. https://www.youtube.com/watch?v=znAuKFfOGPU
 13. Radiology Tutorials. (2023g, July 10). K-Space MRI explained | MRI Signal Localisation | MRI Physics Course #10 [Video]. YouTube. https://www.youtube.com/watch?v=hlTWxwYNmwY
+14. Radiology Tutorials. (2023f, July 1). Frequency Encoding Gradient | MRI Signal Localisation | MRI Physics Course #8 [Video]. YouTube. https://www.youtube.com/watch?v=MblNNwQv3nY
 ----------------------------
 
 
