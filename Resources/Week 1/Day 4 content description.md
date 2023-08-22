@@ -3,7 +3,7 @@
 
 |     Topic     |   Documents    |    Videos    |
 | ------------- | ------------- | ------------- | 
-| Pregnancy scenario | Docs 1-4 (complete) |  |
+| Pregnancy scenario | Documents 1-4 (complete) |  |
 | CMR Safety |  Cardiovascular magnetic resonance (entire article)|  Video 1 (36:00 - 45:15) |
 
 ----------------------------
