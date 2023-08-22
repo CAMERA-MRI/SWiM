@@ -12,7 +12,7 @@
 
 1. [Contemporary considerations for the use of cardiovascular magnetic resonance imaging during pregnancy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6909299/pdf/10.1177_1753495X19832166.pdf)
 2. [Cardiovascular magnetic resonance in pregnancy: insights from the cardiac hemodynamic imaging and remodeling in pregnancy (CHIRP) study](https://pubmed.ncbi.nlm.nih.gov/24387349/)
-3. [SAFETY OF CMR DURING PREGNANCY AND LACTATION](https://scmr.org/page/Pregnancy)
+3. [Safety of CMR during pregnancy and lactation](https://scmr.org/page/Pregnancy)
 4. [Cardiovascular magnetic resonance can be undertaken in pregnancy and guide clinical decision-making in this patient population](https://pubmed.ncbi.nlm.nih.gov/30462196/)
 5. [Cardiovascular magnetic resonance: What clinicians should know about safety and contraindications](https://pubmed.ncbi.nlm.nih.gov/33571560/)
    
