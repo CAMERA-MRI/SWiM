@@ -6,7 +6,7 @@
 |     Topic     |   Documents    |    Videos    |
 | ------------- | ------------- | ------------- | 
 | Black blood contrast / Bright blood contrast	  | CMR Physics for Clinicans Part I -pages: 16 - 18| Video 1 (0:00-10:24), Video 2 (10:13 - 16:16) |
-|  T1W Spoiled GRE / T2*W Spoiled GRE / bSSFP  | CMR Physics for Clinicans Part I - pages: 16, 17  | Video 3 (0:00 - 45:23)|
+|  T1W Spoiled GRE / T2*W Spoiled GRE / bSSFP  | CMR Physics for Clinicans Part I - pages: 16, 17  | Video 3 (0:00 - 32:00)|
 |  Synchronize with cardiac cycle / ECG gating / Respiratory motion | CMR Physics for Clinicans Part I - pages: 21-28 | Video 1 (0:00-10:24) |
 | Inversion sequence / Double inversion / Cine imaging | Electrocardiogram in an MRI Environment |  Video 4 (0:00 - 3:00)|
 | Prospective / Retrospective gating  | Cardiac flow and myocardial T2 mapping - pages: 2-4 |    |
