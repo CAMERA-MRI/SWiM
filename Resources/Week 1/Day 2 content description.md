@@ -16,9 +16,7 @@
 **Documents**
 
 1. [CMR physics for clinicians Part I](https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-12-71)
-
 2. [Electrocardiogram in an MRI Environment: Clinical Needs, Practical Considerations, Safety Implications, Technical Solutions and Future Directions](https://www.researchgate.net/publication/221923127_Electrocardiogram_in_an_MRI_Environment_Clinical_Needs_Practical_Considerations_Safety_Implications_Technical_Solutions_and_Future_Directions)
-
 3. [Cardiac magnetic resonance imaging and its electrocardiographs (ECG): tips and tricks](https://pubmed.ncbi.nlm.nih.gov/22033762/)
 
 
