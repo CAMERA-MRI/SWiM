@@ -1,6 +1,7 @@
 **Day 1: 29th of August 2023**
 -------------------
 
+**Coming soon!**
  <!--- **Schedule**
 
 |     Topic     |   Documents    |    Videos    |
