@@ -1,6 +1,6 @@
 **Day 2: 30th of August 2023**
 -------------------
-
+**Coming soon!**
  <!--- **Schedule**
 
 |     Topic     |   Documents    |    Videos    |
