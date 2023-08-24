@@ -1,6 +1,6 @@
 **Day 4: 1st of September 2023**
 -------------------
-
+**Coming soon!**
  <!--- **Schedule**
 
 |     Topic     |   Documents    |    Videos    |
