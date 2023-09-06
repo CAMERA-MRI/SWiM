@@ -15,6 +15,7 @@
 3. [Safety of CMR during pregnancy and lactation](https://scmr.org/page/Pregnancy)
 4. [CMR can be undertaken in pregnancy and guide clinical decision-making in this patient population](https://pubmed.ncbi.nlm.nih.gov/30462196/)
 5. [CMR: What clinicians should know about safety and contraindications](https://pubmed.ncbi.nlm.nih.gov/33571560/)
+6. [Safety of MRI in patients with cardiovascular devices](https://www.ahajournals.org/doi/10.1161/circulationaha.107.187256)
    
 
 
@@ -30,6 +31,7 @@
 3. Ashwath, M, 2017. Safety of CMR during pregnancy and lactation. Society for Cardiovascular Magnetic Resonance, pp. 1-2. 
 4. Herrey, A.S., Francis, J.M., Hughes, M. and Ntusi, N.A., 2019. Cardiovascular magnetic resonance can be undertaken in pregnancy and guide clinical decision-making in this patient population. European Heart Journal-Cardiovascular Imaging, 20(3), pp.291-297.
 5. Barison, A., Baritussio, A., Cipriani, A., De Lazzari, M., Aquaro, G.D., Guaricci, A.I., Pica, S., Pontone, G., Todiere, G., Indolfi, C. and Dellegrottaglie, S., 2021. Cardiovascular magnetic resonance: What clinicians should know about safety and contraindications. International Journal of Cardiology, 331, pp.322-328.
-6. Houston Methodist DeBakey CV Education. (2021, September 28). Cardiovascular MR: Basic Principles and Overview of Technique (Dipan Shah, MD) September 28, 2021 [Video]. YouTube. https://www.youtube.com/watch?v=xQbWlyiRuWM
+6. Levine GN, Gomes AS, Arai AE, Bluemke DA, Flamm SD, Kanal E, Manning WJ, Martin ET, Smith JM, Wilke N, Shellock FS; American Heart Association Committee on Diagnostic and Interventional Cardiac Catheterization; American Heart Association Council on Clinical Cardiology; American Heart Association Council on Cardiovascular Radiology and Intervention. Safety of magnetic resonance imaging in patients with cardiovascular devices: an American Heart Association scientific statement from the Committee on Diagnostic and Interventional Cardiac Catheterization, Council on Clinical Cardiology, and the Council on Cardiovascular Radiology and Intervention: endorsed by the American College of Cardiology Foundation, the North American Society for Cardiac Imaging, and the Society for Cardiovascular Magnetic Resonance. Circulation. 2007 Dec 11;116(24):2878-91.
+7. Houston Methodist DeBakey CV Education. (2021, September 28). Cardiovascular MR: Basic Principles and Overview of Technique (Dipan Shah, MD) September 28, 2021 [Video]. YouTube. https://www.youtube.com/watch?v=xQbWlyiRuWM
 
 ----------------------------
