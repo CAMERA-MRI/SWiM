@@ -3,7 +3,7 @@
 
 ## SWiM Github
 
-This Github repository serves as the access point to the Scan With Me (SWiM) training resources, and educational materials including optimized scan protocols. 
+This Github repository serves as the access point to the Scan With Me (SWiM) [training materials](https://github.com/CAMERA-MRI/SWiM/tree/main/Training%20Materials), and [optimized scan protocols](https://github.com/CAMERA-MRI/SWiM/tree/main/Protocols). 
 
 For more information about SWiM, the program's objectives, upcoming program including schedule and how to apply to attend, visit [SWiM's event website](https://event.fourwaves.com/swim). All training events are accessible to registered participarnts through SWiM's event website.
 
