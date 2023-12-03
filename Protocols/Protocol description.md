@@ -9,5 +9,5 @@ You can download each protocol for use by clicking Go to file at the top right o
 If you'd like to contribute to our database by sharing your MR protocols for your scanner, please contact us at https://www.cameramriafrica.org/contact
 
 <p align="center">
-  <img src="SWiM_Program_Schedule.png" alt="Image Description" width="550" height="820">
+  <img src="how-to-print-protocol.png" alt="Image Description" width="550" height="820">
 </p>
