@@ -7,3 +7,7 @@ These MRI protocols were optimized to deliver the highest-achievable imaging qua
 You can download each protocol for use by clicking Go to file at the top right of the page or the left side of the page. This will pull up a list of the protocols by scanner (see below). Click on the protocol you wish to download to open the individual file. Then right click the Raw button at the top of file and download or save to your computer. 
 
 If you'd like to contribute to our database by sharing your MR protocols for your scanner, please contact us at https://www.cameramriafrica.org/contact
+
+<p align="center">
+  <img src="SWiM_Program_Schedule.png" alt="Image Description" width="550" height="820">
+</p>
