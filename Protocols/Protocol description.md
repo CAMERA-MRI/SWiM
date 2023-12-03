@@ -8,5 +8,5 @@ You can download each protocol for use by clicking Go to file at the top right o
 
 If you'd like to contribute to our database by sharing your MR protocols for your scanner, please contact us at https://www.cameramriafrica.org/contact
 
-![How to Print Protocols] (https://github.com/CAMERA-MRI/SWiM/blob/main/Protocols/how-to-print-protocol.png)
+![How to Print Protocols](https://github.com/CAMERA-MRI/SWiM/blob/main/Protocols/how-to-print-protocol.png)
 
