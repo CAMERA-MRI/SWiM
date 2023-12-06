@@ -59,7 +59,7 @@ Scan as an expert. Apply skills gained during the foundation and observership mo
 |  5  | [CMR Rapid Protocol: Applications in Cardiamyopathies](https://youtu.be/I_xLXMfCUD4)  | Dr. Katia Menacho Medina - Barts Heart Centre, Saint Bartholomew's Hospital, London, UK | September 14th 2023 |
 |  6  |  [CMR Safety and Contraindications](https://youtu.be/yhELmWPm8ww) | Dr. Ives Levesque - Gerald Bronfman Department of Oncology & Medical Physics Unit, McGill University, Montreal, Canada  | September 15th 2023 |
 |  7  | [O2-Sensitive CMR  Demo II  - Analysis](https://youtu.be/Xp34_VkwWUQ)   | Dr. Katerina Eyre - Division of Experimental Medicine, McGill University, Montreal, Canada  | September 16th 2023 |
-|  8  |  Group Exercise: CMR Case study: MR Scan Simulator and Analysis on CVI42  |     |  September 16th 2023  |
+|  8  |  [Group Exercise: CMR Case study: MR Scan Simulator and Analysis on CVI42](https://github.com/CAMERA-MRI/SWiM/tree/main/Training%20Materials/CMR-2023/Week%204)  |     |  September 16th 2023  |
 |  |  **Practicum Module – Week 1** |   |   |
 |  1 | [Circle CVI-42 Live Demo:  4D Flow](https://youtu.be/Fa8pt2Ca_ek)  |  Anne Hui Sze Kwong - Circle Cardiovascular Imaging, Strasbourg, France/Calgary, AB, Canada | September 28th 2023 |
 |  2  |  Group Exercise: CMR protocol and parameter optimization   |     |    |
