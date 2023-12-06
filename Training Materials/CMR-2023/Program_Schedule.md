@@ -50,7 +50,7 @@ Scan as an expert. Apply skills gained during the foundation and observership mo
 |  4  | [CMR Rapid Protocol: From Research to Practice](https://www.youtube.com/watch?v=2GeMcEebX9k)  | Dr. Katia Menacho Medina - Barts Heart Centre, Saint Bartholomew's Hospital, London, UK  | September 7th 2023 |
 |  5  | [Circle CVI-42 demo](https://youtu.be/r6Zhy5MGcaw)  |  Anne Hui Sze Kwong - Circle Cardiovascular Imaging, Strasbourg, France/Calgary, AB, Canada| September 8th 2023 |
 |  6  | [O2-Sensitive CMR Live Demo I – Scanning](https://youtu.be/pwbA0aTa5Z8)  |  Dr. Katerina Eyre - Division of Experimental Medicine, McGill University, Montreal, Canada | September 9th 2023 |
-|  7  |  Group Exercise: Develop an MRI Screening form and Safety Policy  |     |  September 9th 2023  |
+|  7  |  [Group Exercise: Develop an MRI Screening form and Safety Policy](https://github.com/CAMERA-MRI/SWiM/tree/main/Training%20Materials/CMR-2023/Week%203)  |     |  September 9th 2023  |
 |  |  **Observership Module - Week 2** |   |   |
 |  1  |  [How to write a Case Report](Case_Report_Guideline-1.pdf)  |     |  September 16th 2023   |
 |  2  |  [Myocardial Fibrosis](https://youtu.be/7oZpLiR2UjU) | Dr. Olukayode (Solomon) Aremu - Cape Heart Institute, Department of Medicine, University of Cape Town, South Africa  | September 12th 2023 |
