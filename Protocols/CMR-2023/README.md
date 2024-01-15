@@ -6,7 +6,7 @@ The CMR protocols from the 2023 SWiM Program are listed by scanner type. This pr
 
 |               |      Scanner  |    Comments |
 | ------------- | :-----------: | :-----------: | 
-| 1             |   [Siemens](https://github.com/CAMERA-MRI/SWiM/blob/main/Protocols/CMR-2023/SIEMENS/SIEMENS.md)  | -      |
+| 1             |   [Siemens]([(https://github.com/CAMERA-MRI/SWiM/tree/main/Protocols/CMR-2023/SIEMENS])  | -      |
 | 2             |   [GE](https://github.com/CAMERA-MRI/SWiM/blob/main/Protocols/CMR-2023/GE/GE.md) |  - |
 | 3             |  Philips  | In progress |
 
