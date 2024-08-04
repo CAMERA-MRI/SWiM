@@ -1,4 +1,4 @@
-**Day 2: Thursday, 8th of August 2024**
+**Day 3: Thursday, 8th of August 2024**
 -------------------
 _Coming soon_
 
