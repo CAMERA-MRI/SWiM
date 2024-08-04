@@ -1,7 +1,7 @@
 **Day 1: Tuesday, 6th of August 2024**
 -------------------
 
-**Schedule**
+**Schedule: Basic MRI Physics**
 
 |     Topic     |   Documents    |    Videos    |
 | ------------- | ------------- | ------------- | 
