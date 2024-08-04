@@ -1,5 +1,6 @@
 **Day 2: Wednesday, 7th of August 2024**
 -------------------
+_Coming soon_
 
 **Schedule**
 
@@ -23,8 +24,8 @@
 
 
 **Videos** 
+
 1. 
-2. 
    
 <!--- Commenting --->
 
