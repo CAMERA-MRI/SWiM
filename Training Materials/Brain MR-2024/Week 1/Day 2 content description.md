@@ -1,7 +1,7 @@
 **Day 2: Wednesday, 7th of August 2024**
 -------------------
 
-**Schedule**
+**Schedule: Brain Anatomy & Physiology**
 
 |     Topic     |   Documents    |    Videos    |
 | ------------- | ------------- | ------------- | 
