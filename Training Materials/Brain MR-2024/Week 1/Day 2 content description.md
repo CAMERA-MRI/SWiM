@@ -10,10 +10,13 @@
 |  Introduction to MRI Brain   |          |    Video 3 (complete)      |
 
 
+Further reading: eBook for Undergraduate Education in Radiology: Head and Neck Imaging.
+
 ----------------------------
 **Documents**
 
 1. [Anatomy of the encephalon (MRI) in axial slices](https://www.imaios.com/en/e-anatomy/brain/mri-axial-brain)
+2. [eBook for Undergraduate Education in Radiology: Head and Neck Imaging.](https://www.myesr.org/app/uploads/2023/12/ESR_eBook_for_Undergraduate_Education_in_Radiology_10_Head_and_Neck_Imaging.pdf)
 
 
 **Videos** 
@@ -29,9 +32,11 @@
 ----------------------------
 **References:**
 1.  Micheau, A., & Hoa, D. (2009). MRI axial brain [Dataset]. In e-Anatomy. https://doi.org/10.37019/e-anatomy/49541
-2.  Eccles Health Sciences Library Digital Publishing. (2015, July 6). Introduction: Neuroanatomy Video Lab - Brain dissections [Video]. YouTube. https://www.youtube.com/watch?v=_aCCsRCw78g
-3.  MGH Martinos Center. (2020, September 21). Neuroanatomy II (Macroscopic) [Video]. YouTube. https://www.youtube.com/watch?v=2J75eROPc0U
-4.  Leicester Medical School Radiology. (2021, May 24). Introduction to MRI of the brain [Video]. YouTube. https://www.youtube.com/watch?v=Co7Qyu21QKU
+2.  European Society of Radiology, Edith Vasallo, Emma Tabone, Reuben Grech, Minerva Becker (2023) eBook for
+Undergraduate Education in Radiology: Head and Neck Imaging. DOI 10.26044/esr-undergraduate-ebook-11
+3.  Eccles Health Sciences Library Digital Publishing. (2015, July 6). Introduction: Neuroanatomy Video Lab - Brain dissections [Video]. YouTube. https://www.youtube.com/watch?v=_aCCsRCw78g
+4.  MGH Martinos Center. (2020, September 21). Neuroanatomy II (Macroscopic) [Video]. YouTube. https://www.youtube.com/watch?v=2J75eROPc0U
+5.  Leicester Medical School Radiology. (2021, May 24). Introduction to MRI of the brain [Video]. YouTube. https://www.youtube.com/watch?v=Co7Qyu21QKU
 
 
 ----------------------------
