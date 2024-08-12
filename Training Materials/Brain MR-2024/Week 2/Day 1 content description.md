@@ -1,4 +1,4 @@
-**Day 4: Perfusion with Contrast Administration -- Tuesday, 13th of August 2024**
+**Day 1: Perfusion with Contrast Administration -- Tuesday, 13th of August 2024**
 -------------------
 
 
