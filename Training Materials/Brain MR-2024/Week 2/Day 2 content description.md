@@ -1,7 +1,7 @@
-**Day 2: Wednesday, 14th of August 2024**
+**Day 2: Perfusion without Contrast Administration & Arterial Spin Labeling (ASL) Acquisition -- Wednesday, 14th of August 2024**
 -------------------
 
-**Schedule: MRI artefacts**
+**Schedule:**
 
 |     Topic     |   Documents    |    Videos    |
 | ------------- | ------------- | ------------- | 
