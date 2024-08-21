@@ -11,7 +11,7 @@
 
 ----------------------------
 **Documents** 
-1. [Advanced magnetic resonance imaging of neurodegenerative diseases](https://pubmed.ncbi.nlm.nih.gov/27848119/)
+1. [Advanced magnetic resonance imaging of neurodegenerative diseases](https://rdcu.be/dQ3IX)
 2. [Unveiling the future: Advancements in MRI imaging for neurodegenerative disorders](https://pubmed.ncbi.nlm.nih.gov/38364912/)
 3. [MRI essentials in epileptology: a review from the ILAE Imaging Taskforce](https://pubmed.ncbi.nlm.nih.gov/32763869/)
 4. [The diagnosis of multiple sclerosis: what has changed in diagnostic criteria?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10867947/)
